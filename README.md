@@ -38,6 +38,7 @@
 
 <div align="center">
    <samp><b>[ Quiero convertirme en un desarrollador FullStack-Web ( MERN ) ]</b></samp>
+     <br>
    <samp><b>[ Estoy aprendiendo estas tecnologías: ]</b></samp>
 
    <div align="center">
@@ -56,7 +57,6 @@
    <div align="center">
      <br>
        <image width="48"style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png">
-      <image width="48" style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999">
       <image width="48" style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://static-00.iconduck.com/assets.00/apps-neovim-icon-1024x1024-cvzervfu.png">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">   
    </div> 
