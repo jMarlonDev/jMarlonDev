@@ -1,24 +1,12 @@
-<!--Gif de inicio estilo hacker -->
-![mk](https://github.com/jMarlonDev/jMarlonDev/assets/139396421/60a29e48-7cf0-4a6f-afdd-a4eb004d6f73)
-<br>
-<!-- perfil -->
-<p align="left"><strong><samp>「</samp></strong></p>
-  <p align="center">
-    <samp>
-      <b>
-        Hola! 
-      <br>
-        Mi nombre es Marlon y estoy en el camino del aprendizaje. 
-      </b>
-      <br>
-        <image src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00DF29&center=true&random=false&width=435&lines=Because; +I'm+fascinated+with+programming">
-      <br>
-      <b>
-        ~ Jhon Marlon ~
-      </b>
-    </samp>
-  </p>
-<p align="right"><strong><samp>」</samp></strong></p>
+<h1 align="center">Hi, I'm Esteban Gonzalez</h1>
+<h3 align="center">A passionate backend developer from Colombia</h3>
+
+<img src="https://i.pinimg.com/originals/78/db/1c/78db1c4ab362ac38592cf91e614388ca.gif" alt="img" align="right" width="340px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=esteban528&label=Profile%20views&color=0e75b6&style=flat" alt="esteban528" /> </p>
+<h3>About me</h3>
+<p align="left">
+I'm a Java developer specializing in backend and building server applications. I’ve been programming for 4 years, and I do this because I love it—I genuinely enjoy sitting at my computer and creating solutions. I have a big passion for Linux systems and love exploring and making the most out of them. I also enjoy building my own tools and contributing to the community.
+</p>
 <!--tecnologias-->
 
 <br> <br>
