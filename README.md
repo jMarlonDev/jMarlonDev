@@ -51,11 +51,11 @@ Quiero poder convertirme en un gran desarrollador web (Frontend). Así dedicar m
 <h2></h2><br>
 
 <!-- Contact Me -->
-
 <p align="center">
-  <samp>  
-    📧 Contacto: <a href="mailto:jmarloncin07@gmail.com">jmarloncin07@gmail.com</a>
-  </samp>
+   Contacto:
+  <a href="mailto:jmarloncin07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" align="center"/>
+  </a>
 </p>
 
 
