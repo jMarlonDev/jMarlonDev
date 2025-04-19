@@ -53,9 +53,9 @@ Quiero poder convertirme en un gran desarrollador web (Frontend). Así dedicar m
 <!-- Contact Me -->
 
 <p align="center">
-  <a href="mailto:jmarloncin07@gmail.com">
-    <img src="https://img.shields.io/badge/Contacto_por_Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
-  </a>
+  <samp>  
+    📧 Contacto: <a href="mailto:jmarloncin07@gmail.com">jmarloncin07@gmail.com</a>
+  </samp>
 </p>
 
 
