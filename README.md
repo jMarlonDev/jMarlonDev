@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Esteban Gonzalez</h1>
-<h3 align="center">A passionate backend developer from Colombia</h3>
+<h1 align="center">Hi, I'm Marlon Florez</h1>
+<h3 align="center">Passionate about learning and the world of front-end web development.</h3>
 
-<img src="https://i.pinimg.com/originals/78/db/1c/78db1c4ab362ac38592cf91e614388ca.gif" alt="img" align="right" width="340px">
+<img src="[https://i.pinimg.com/originals/78/db/1c/78db1c4ab362ac38592cf91e614388ca.gif](https://i.pinimg.com/736x/19/64/d3/1964d3c8e1df0ce5f4177748e8bcc6f1.jpg)" alt="img" align="right" width="340px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esteban528&label=Profile%20views&color=0e75b6&style=flat" alt="esteban528" /> </p>
 <h3>About me</h3>
-<p align="left">
-I'm a Java developer specializing in backend and building server applications. I’ve been programming for 4 years, and I do this because I love it—I genuinely enjoy sitting at my computer and creating solutions. I have a big passion for Linux systems and love exploring and making the most out of them. I also enjoy building my own tools and contributing to the community.
+<p align="right">
+
 </p>
 <!--tecnologias-->
 
