@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Marlon Florez</h1>
 <h3 align="center">Apasionado por el aprendizaje y el mundo del desarrollo web front-end.</h3>
 
-<img src="https://i.pinimg.com/736x/19/64/d3/1964d3c8e1df0ce5f4177748e8bcc6f1.jpg" alt="img" align="left" width="340px">
+<img src="https://i.pinimg.com/736x/19/64/d3/1964d3c8e1df0ce5f4177748e8bcc6f1.jpg" alt="img" align="left" width="340px" >
 <h3 align="center">Sobre mí</h3>
 <p align="center">
 Quiero poder convertirme en un gran desarrollador web (Frontend). Así dedicar mi vida a programar de manera profesional y disfrutar dejando volar la creatividad e imaginacion, hasta ahora solo he desarrollado una pequeña parte de pequeños proyectos pero estoy fascinado con el aprendizaje y desarrollo frontend que me alegra poder seguir aprendiendo y desarrollando nuevos proyectos.
@@ -51,10 +51,11 @@ Quiero poder convertirme en un gran desarrollador web (Frontend). Así dedicar m
 <h2></h2><br>
 
 <!-- Contact Me -->
+
 <p align="center">
-  <samp>  
-    Correo electronico [<a href="mailto:jmarloncin07@gmail.com">e-mail</a>]
-  </samp>
+  <a href="mailto:jmarloncin07@gmail.com">
+    <img src="https://img.shields.io/badge/Contacto_por_Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
+  </a>
 </p>
 
 
