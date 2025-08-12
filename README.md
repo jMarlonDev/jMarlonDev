@@ -48,8 +48,6 @@ Quiero poder convertirme en un gran desarrollador web (Frontend). Así dedicar m
    
 <summary><samp><b>Estadísticas de GitHub</b></samp></summary>
 
-<h2></h2><br>
-
 <!-- Contact Me -->
 <p align="center">
    Contacto:
