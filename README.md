@@ -24,7 +24,7 @@ Quiero poder convertirme en un gran desarrollador web (Frontend). Así dedicar m
 <!-- Contact Me -->
 <p align="center">
    Contacto:
-  <a href="mailto:jmarloncin07@gmail.com?subject=Hola Marlon&body=Hola, vi tu perfil de GitHub y me gustaría contactarte.">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jmarloncin07@gmail.com&su=Contacto desde GitHub" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" align="center"/>
   </a>
 </p>
