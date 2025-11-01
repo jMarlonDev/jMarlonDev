@@ -10,7 +10,7 @@
   <div>
     <h3>Sobre mí</h3>
     <p>
-      Quiero poder convertirme en un gran desarrollador web (Frontend). Así dedicar mi vida a programar de manera profesional y disfrutar dejando volar la creatividad e imaginación, hasta ahora solo he desarrollado una pequeña parte de pequeños proyectos pero estoy fascinado con el aprendizaje y desarrollo frontend que me alegra poder seguir aprendiendo y desarrollando nuevos proyectos.
+      Quiero poder convertirme en un gran programador se que no es un camino fácil pero con un gran esfuerzo se que puedo hacer parte de un mundo totalmente diferente como es el mundo de la programación. Así dedicar mi vida a programar de manera profesional y disfrutar dejando volar la creatividad e imaginación, hasta ahora solo he desarrollado una pequeña parte de pequeños proyectos pero estoy fascinado con el aprendizaje y me alegra poder seguir aprendiendo y desarrollando nuevos proyectos.
     </p>
      <br>
     <p align="start">
