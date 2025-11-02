@@ -5,7 +5,7 @@
 
 <!-- Sección con imagen y texto -->
 <div>
-  <img src="https://i.pinimg.com/736x/c4/00/29/c40029a743dfae63aed020060c089657.jpg" alt="img" align="left" width="340px" height="340px" style="margin-right: 20px;">
+  <img src="https://i.pinimg.com/736x/d2/cc/65/d2cc651e47f9e468d191f6f748aefbbb.jpg" alt="img" align="left" width="340px" height="340px" style="margin-right: 20px;">
   
   <div>
     <h3>Sobre mí</h3>
