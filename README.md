@@ -5,13 +5,12 @@
 
 <!-- Sección con imagen y texto -->
 <div>
-<img src="https://i.pinimg.com/originals/13/26/75/1326753145204ddb48f8fd9a322c2fc6.gif" alt="img" align="left" width="300px" height="335px" style="margin-right: 20px;">
+<img src="https://i.pinimg.com/originals/13/26/75/1326753145204ddb48f8fd9a322c2fc6.gif" alt="img" align="left" spacing="20" width="300px" height="335px">
   <div>
     <h3>Sobre mí</h3>
     <p>
       Quiero poder convertirme en un gran programador se que no es un camino fácil pero con un gran esfuerzo se que puedo hacer parte de un mundo totalmente diferente como es el mundo de la programación. Así dedicar mi vida a programar de manera profesional y disfrutar dejando volar la creatividad e imaginación, hasta ahora solo he desarrollado una pequeña parte de pequeños proyectos pero estoy fascinado con el aprendizaje y me alegra poder seguir aprendiendo y desarrollando nuevos proyectos.
     </p>
-     <br>
     <p align="start">
    Contacto:
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jmarloncin07@gmail.com&su=Contacto desde GitHub" target="_blank">
