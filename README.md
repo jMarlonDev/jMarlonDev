@@ -1,5 +1,5 @@
 <h1 align="center" >Hola, soy Marlon Florez</h1>
-<h3 align="center">Apasionado por el aprendizaje...</h3>
+<h3 align="center">Estoy en proceso de aprendizaje...</h3>
 
 <br>
 
