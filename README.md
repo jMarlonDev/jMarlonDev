@@ -7,7 +7,10 @@ out so well that you won't be able to believe it.
 
 
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JmarlonDev&theme=chartreuse-dark&hide_border=false"/>
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=react&fontFamily=JetBrains%20Mono&preferLogin=false">    
+<img  alt="JmarlonDev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/JmarlonDev?cardType=level&theme=react&fontFamily=JetBrains%20Mono&preferLogin=false" />  
+</a>
+
 
 
 
